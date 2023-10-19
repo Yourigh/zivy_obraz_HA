@@ -46,5 +46,9 @@ mode: single
 5. Skontoluj či text `input_text.zivy_obraz_hodnoty` vyzerá dobre. Mal by mať formát `meno=hodnota1&meno2=hodnota2`. Ak potrebuješ doladiť formát, odporúčam skopírovať value do Debug Tools/Template a upravovať pokiaľ to nevyzerá dobre.
 6. Hodnoty by sa mali aktualizovať na zivyobraz.eu. Uprav periódu aktualizáie a dáta podľa potreby.
 
-Automatizácia v GUI
+    Dáta na zivyobraz.eu:
+![image](https://github.com/Yourigh/zivy_obraz_HA/assets/25552139/a78fae86-1caa-4d52-8f44-84ce59b0f411)
+
+
+HA Automatizácia v GUI
 ![image](https://github.com/Yourigh/zivy_obraz_HA/assets/25552139/ab873354-6161-401a-ac8d-8c058d8f9bf8)
