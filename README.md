@@ -12,6 +12,7 @@ input_text:
     #meno=hodnota&meno2=hodnota2
     name: Zivy Obraz hodnoty
     initial: not initalized
+    max: 250 #maxialny pocet znakov, default je 100. Zvys aj potrebujes viac.
 rest_command:
   zivy_obraz_post:
     url: "http://in.zivyobraz.eu/?import_key=TVUJ_KLIC&{{ states('input_text.zivy_obraz_hodnoty') }}"
